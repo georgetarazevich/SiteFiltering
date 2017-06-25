@@ -1,0 +1,1 @@
+start.bat > .\logs\log.txt

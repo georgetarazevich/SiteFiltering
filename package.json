@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "jasmine2-custom-message": "^0.8.2"
+  }
+}

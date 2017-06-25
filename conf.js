@@ -7,7 +7,7 @@ exports.config = {
   params: {
     search: {
       freelancers: 'Freelancers',
-      freelancersFrom: 'United States',
+      expectedLocation: 'United States',
       speciality: 'Web developers',
     }
   },

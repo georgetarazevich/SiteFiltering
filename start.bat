@@ -1,3 +1,3 @@
 
-protractor conf.js --params.search.freelancersFrom="United States" 
+protractor conf.js --params.search.freelancersFrom="Russia" 
 

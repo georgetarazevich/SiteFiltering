@@ -1,3 +1,3 @@
 
-protractor conf.js --params.search.freelancersFrom="Russia" 
+protractor conf.js  --capabilities.browserName=chrome 
 
